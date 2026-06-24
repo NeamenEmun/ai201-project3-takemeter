@@ -1,0 +1,19 @@
+[33m62153c7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m remove model outputs from tracking
+[33m394ac47[m remove model outputs from tracking
+[33m7f07ed9[m remove model outputs from tracking
+[33mce040b4[m remove venv
+[33m2b5556c[m Merge branch 'master' of https://github.com/NeamenEmun/ai201-project3-takemeter
+[33m1fc7acf[m Merge branch 'master' of https://github.com/NeamenEmun/ai201-project3-takemeter
+[33m95e421f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Delete train_eval_pipeline.py
+[33m19f404e[m Delete requirements.txt
+[33mf404968[m Delete planning.md
+[33m2a83697[m Delete nba_dataset_submission_real_only.csv
+[33m7b341a3[m Delete nba_dataset_submission.csv
+[33md64bd81[m Delete demo_predict.py
+[33me372ca8[m Delete README.md
+[33me0a84a4[m Add files via upload
+[33m6693eb3[m done
+[33m12da87d[m Update planning.md
+[33me79c87d[m Add community classification task details to planning.md
+[33meff8cad[m Create planning.md
+[33me919140[m Add project title to README.md
